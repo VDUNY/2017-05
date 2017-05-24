@@ -137,7 +137,7 @@ Actually, maybe we should start with [Cortana](https://developer.microsoft.com/e
 
 However, let's just look at some as an example.
 
-#### [IoT Walkthrough]](https://github.com/ms-iot/iot-walkthrough)
+#### [IoT Walkthrough](https://github.com/ms-iot/iot-walkthrough)
 
 I'm not going to go through this one in detail, because I don't have a weather sensor handy, and the project was done with a Minnowboard anyway, so it would take some extra customizing. The [Windows 10 IoT Core Walkthrough](https://github.com/ms-iot/iot-walkthrough) has a great example of an IoT device: a background app that collects weather sensor data and sends it to the IoT cloud. A foreground application that shows that local weather data, as well as information from the internet (news and weather) or radio streams and photo slideshows...
 
